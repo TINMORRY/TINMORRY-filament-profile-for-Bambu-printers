@@ -1,0 +1,34 @@
+{
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "A1 PETG-ECO"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL A1",
+    "is_custom_defined": "0",
+    "name": "A1 PETG-ECO",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "6"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.8.0.13"
+}
