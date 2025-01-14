@@ -1,0 +1,25 @@
+{
+    "filament_max_volumetric_speed": [
+        "9"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "PLA Silk(P1S X1 X1C-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk",
+    "is_custom_defined": "0",
+    "name": "PLA Silk(P1S X1 X1C-Bambu-TINMORRY)",
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.10.0.32"
+}

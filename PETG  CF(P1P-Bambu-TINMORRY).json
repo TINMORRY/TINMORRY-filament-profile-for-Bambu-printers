@@ -1,0 +1,37 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "PETG  CF(P1P-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG-CF @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PETG  CF(P1P-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.10.0.32"
+}

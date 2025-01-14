@@ -1,0 +1,19 @@
+{
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "PLA Matte(A1-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1",
+    "is_custom_defined": "0",
+    "name": "PLA Matte(A1-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "version": "1.10.0.32"
+}

@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "PLA Silk(A1mini-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "PLA Silk(A1mini-Bambu-TINMORRY)",
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "1.10.0.32"
+}

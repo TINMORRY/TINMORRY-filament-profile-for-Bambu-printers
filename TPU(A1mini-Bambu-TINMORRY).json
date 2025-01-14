@@ -1,0 +1,28 @@
+{
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(A1mini-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "TPU(A1mini-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "textured_plate_temp": [
+        "35"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "35"
+    ],
+    "version": "1.10.0.32"
+}

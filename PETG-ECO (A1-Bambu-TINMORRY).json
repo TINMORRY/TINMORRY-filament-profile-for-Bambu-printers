@@ -1,0 +1,21 @@
+{
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "PETG-ECO (A1-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL A1",
+    "name": "PETG-ECO (A1-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "version": "1.8.0.13"
+}

@@ -1,0 +1,25 @@
+{
+    "fan_max_speed": [
+        "90"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "PLA-CF(A1-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA-CF @BBL A1",
+    "is_custom_defined": "0",
+    "name": "PLA-CF(A1-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "version": "1.8.0.25"
+}
