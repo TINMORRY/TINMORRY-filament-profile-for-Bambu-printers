@@ -1,0 +1,18 @@
+{
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_max_volumetric_speed": [
+        "7"
+    ],
+    "filament_settings_id": [
+        "PAHT-CF(P1S.X1C-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PA-CF",
+    "name": "PAHT-CF(P1S.X1C-Bambu-TINMORRY)",
+    "version": "1.8.0.25"
+}
