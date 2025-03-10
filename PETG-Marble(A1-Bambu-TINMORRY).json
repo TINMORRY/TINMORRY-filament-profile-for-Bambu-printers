@@ -1,0 +1,25 @@
+{
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "PETG-Marble(A1-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL A1",
+    "is_custom_defined": "0",
+    "name": "PETG-Marble(A1-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "1.8.0.13"
+}
