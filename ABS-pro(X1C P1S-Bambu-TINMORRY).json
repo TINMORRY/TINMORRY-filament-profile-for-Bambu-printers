@@ -1,0 +1,42 @@
+{
+    "compatible_printers": [
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab P1S 0.4 nozzle",
+        "Bambu Lab P1P 0.4 nozzle"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "ABS-pro(X1C P1S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "ABS-pro(X1C P1S-Bambu-TINMORRY)",
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "textured_plate_temp": [
+        "95"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "95"
+    ],
+    "version": "1.7.0.29"
+}
