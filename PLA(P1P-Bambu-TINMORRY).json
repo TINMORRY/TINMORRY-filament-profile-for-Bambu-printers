@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_settings_id": [
+        "PLA(P1P-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PLA(P1P-Bambu-TINMORRY)",
+    "version": "1.10.0.32"
+}
