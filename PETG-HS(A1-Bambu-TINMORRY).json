@@ -1,0 +1,39 @@
+{
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_max_volumetric_speed": [
+        "25"
+    ],
+    "filament_settings_id": [
+        "PETG-HS(A1-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL A1",
+    "name": "PETG-HS(A1-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.8.0.13"
+}
