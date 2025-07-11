@@ -1,0 +1,27 @@
+{
+    "fan_max_speed": [
+        "40"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "PC-GF(A1-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PC @BBL A1",
+    "name": "PC-GF(A1-Bambu-TINMORRY)",
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "1"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.1.0.18"
+}
