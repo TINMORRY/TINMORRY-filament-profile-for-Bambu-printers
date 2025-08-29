@@ -1,0 +1,24 @@
+{
+    "fan_cooling_layer_time": [
+        "10"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_settings_id": [
+        "PET-GF（X1C,P1S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Bambu PET-CF @BBL X1C",
+    "name": "PET-GF（X1C,P1S-Bambu-TINMORRY)",
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "version": "1.10.0.32"
+}
