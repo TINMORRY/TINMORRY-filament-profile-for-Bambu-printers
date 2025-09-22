@@ -1,0 +1,31 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_retraction_length": [
+        "0.6",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "PETG-ECO(H2S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL H2S",
+    "name": "PETG-ECO(H2S-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "245",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "2.2.0.3"
+}
