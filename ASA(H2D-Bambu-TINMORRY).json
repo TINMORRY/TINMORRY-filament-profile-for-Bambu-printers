@@ -1,0 +1,29 @@
+{
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "ASA(H2D-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic ASA @BBL H2D",
+    "name": "ASA(H2D-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "265",
+        "nil"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.2.0.4"
+}
