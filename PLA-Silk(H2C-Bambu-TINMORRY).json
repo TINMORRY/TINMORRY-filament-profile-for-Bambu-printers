@@ -1,0 +1,36 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.97",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "0.8",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "PLA-Silk(H2C-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Generic PLA Silk @BBL H2C 0.4 nozzle",
+    "name": "PLA-Silk(H2C-Bambu-TINMORRY)",
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.4.0.10"
+}

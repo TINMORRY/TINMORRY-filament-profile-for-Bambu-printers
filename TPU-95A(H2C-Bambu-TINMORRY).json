@@ -1,0 +1,42 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.95",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.6",
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "1.4",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "TPU-95A(H2C-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU @BBL H2C 0.4 nozzle",
+    "name": "TPU-95A(H2C-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "220",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220",
+        "nil"
+    ],
+    "nozzle_temperature_range_low": [
+        "215"
+    ],
+    "textured_plate_temp": [
+        "45"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "45"
+    ],
+    "version": "2.4.0.10"
+}
