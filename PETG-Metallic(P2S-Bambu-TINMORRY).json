@@ -1,0 +1,43 @@
+{
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.96",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "PETG-Metallic(P2S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL P2S",
+    "name": "PETG-Metallic(P2S-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "238",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250",
+        "nil"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "2.4.0.1"
+}
