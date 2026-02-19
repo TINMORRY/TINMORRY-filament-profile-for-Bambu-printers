@@ -1,0 +1,22 @@
+{
+    "fan_cooling_layer_time": [
+        "10"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "PET CF   GF(H2S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Bambu PET-CF @BBL H2S",
+    "name": "PET CF   GF(H2S-Bambu-TINMORRY)",
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "version": "2.2.0.4"
+}
