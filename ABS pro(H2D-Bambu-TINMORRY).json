@@ -1,0 +1,39 @@
+{
+    "chamber_temperatures": [
+        "55"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_settings_id": [
+        "ABS pro(H2D-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "TINMORRY ABS Generic @Bambu Lab H2D 0.4 nozzle",
+    "name": "ABS pro(H2D-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "265",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265",
+        "nil"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.5.0.7"
+}
