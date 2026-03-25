@@ -1,0 +1,30 @@
+{
+    "fan_min_speed": [
+        "70"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.95",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Matte PLA(P2S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "TINMORRY PLA Matte @Bambu Lab P2S 0.4 nozzle",
+    "name": "Matte PLA(P2S-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "210",
+        "nil"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.5.0.14"
+}
