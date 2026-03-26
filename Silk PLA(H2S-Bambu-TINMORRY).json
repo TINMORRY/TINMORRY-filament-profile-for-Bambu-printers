@@ -1,0 +1,29 @@
+{
+    "chamber_temperatures": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.95",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Silk PLA(H2S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "TINMORRY PLA Silk @Bambu Lab H2S 0.4 nozzle",
+    "name": "Silk PLA(H2S-Bambu-TINMORRY)",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "2.5.0.14"
+}
