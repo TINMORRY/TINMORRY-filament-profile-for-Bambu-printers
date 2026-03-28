@@ -1,0 +1,44 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "filament_flow_ratio": [
+        "0.95",
+        "nil"
+    ],
+    "filament_max_volumetric_speed": [
+        "15",
+        "nil"
+    ],
+    "filament_settings_id": [
+        "ASA-CF(H2S-Bambu-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "TINMORRY ASA-CF Generic @Bambu Lab H2S 0.4 nozzle",
+    "name": "ASA-CF(H2S-Bambu-TINMORRY)",
+    "nozzle_temperature": [
+        "260",
+        "nil"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260",
+        "nil"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "textured_plate_temp": [
+        "90"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "90"
+    ],
+    "version": "2.5.0.14"
+}
